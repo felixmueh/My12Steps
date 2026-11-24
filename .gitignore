@@ -21,3 +21,14 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+# =========================
+# Python, IDE and Numba caches
+# =========================
+venv/
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.nbi
+*.nbc
